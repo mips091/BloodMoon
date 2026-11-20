@@ -16,6 +16,7 @@
   <a href="#-how-to-play"><b>How to play</b></a> ·
   <a href="#-what-already-works"><b>What works</b></a> ·
   <a href="#-known-problems"><b>Known problems</b></a> ·
+  <a href="docs/bedrock-linux.md"><b>Linux setup</b></a> ·
   <a href="docs/bedrock-roadmap.md"><b>Changelog</b></a>
 </p>
 
