@@ -3,6 +3,8 @@ name: Linux game build
 on:
   workflow_dispatch:
   push:
+    branches:
+      - "linux-official-horizon-integration"
     tags:
       - "v*"
 
